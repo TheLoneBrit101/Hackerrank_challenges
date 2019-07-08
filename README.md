@@ -3,3 +3,5 @@ The following are my solutions to the Hackerrank challenges. I will be updating 
 
 Contains the following:
 * Sock Merchant
+* Counting Valleys
+* Repeated String
